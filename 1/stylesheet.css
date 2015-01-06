@@ -1,0 +1,30 @@
+/*
+    Document   : 1/stylesheet．css
+    Created on : 2015-01-06 08:56 PM
+    Author     : tuxik
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+div {
+    height:100px;
+    width:100px;
+    display: inline-block;
+}
+
+#red {
+    background-color:#FF0000;
+}
+
+#blue {
+    background-color:#0000FF;
+}
+
+#yellow {
+    background-color:#E2BE22;
+}
+
+#green {
+    background-color:#008800;
+}
